@@ -20,8 +20,8 @@ From Senior dev to Technical Architect
 * Spring : IOC, Integration, Data, Rest, MVC, SpringBoot
 * Data storage : Mysql, Oracle, Mongo
 * AWS - Dynamodb, EC2, S3, lambda 
-* Mule ESB + RabbitMQ
-* CI - jenkins, docker for testing, gitlab, gocd
+* Mule ESB + RabbitMQ + Oracle + guice
+* CI - jenkins, docker for testing, gitlab, gocd (loads of yaml here!)
 * Testing - unit test+mocking, acceptance test : cucumber, jbehave, third-party mocks
 * git 
 
@@ -34,7 +34,7 @@ From senior developer to Tech Lead
 * java + jsp + oracle web apps
 * maven + spring + ORMs (ibatis, hibernate)
 * ASP + SQL Server
-* Spring MVC + JAva Swing + Tibco broker 
+* Spring MVC + Java Swing + Tibco broker 
 * CVS :(, then SVN :/, git at some point :)
 
 ### 2000 - 2006
