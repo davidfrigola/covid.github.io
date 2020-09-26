@@ -1,4 +1,4 @@
-# Resume
+## About me
 
 David Frigola Guerra
 
@@ -8,9 +8,9 @@ dfguerro.kd at skype
 
 b-date - '76
 
-# Experience
+## Experience
 
-## 2012 - 
+### 2012 - 
 
 Piksel/Kit-digital
 
@@ -26,7 +26,7 @@ From Senior dev to Technical Architect
 * git 
 
 
-## 2006 - 2012
+### 2006 - 2012
 Ingenia
 
 From senior developer to Tech Lead
@@ -37,20 +37,20 @@ From senior developer to Tech Lead
 * Spring MVC + JAva Swing + Tibco broker 
 * CVS :(, then SVN :/, git at some point :)
 
-## 2000 - 2006
+### 2000 - 2006
 Several companies
 * VB + Mysql
 * ASP , some c++
 * Wiring datacenter, SAI implementation
 
 
-# Experience for fun / other
+## Experience for fun / other
 
 Check my github - playing with containers, spring, nginx
 Interest in distributed systems, message brokers.
 Love ride my motorbike, drink IPAs and enjoy nature
 
-# Education
+## Education
 
 CS Degree : Ingeniero Informatico UMA
 '92 - 00
