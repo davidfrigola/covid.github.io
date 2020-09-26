@@ -39,8 +39,8 @@ From senior developer to Tech Lead
 
 ## 2000 - 2006
 Several companies
-* VB
-* Mysql
+* VB + Mysql
+* ASP , some c++
 * Wiring datacenter, SAI implementation
 
 
@@ -55,5 +55,6 @@ Love ride my motorbike, drink IPAs and enjoy nature
 CS Degree : Ingeniero Informatico UMA
 '92 - 00
 
-Spanish/Catalan  mother tongues
+Spanish+Catalan  mother tongues
+
 English good level
