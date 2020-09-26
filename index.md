@@ -1,15 +1,53 @@
-## 2020-09-29 Martes
+# Resume
 
-9:00 - 9:45 Educación física
+David Frigola Guerra
 
-11:00-12:00 Tutora
+david.frigola at gmail 
 
-15:00-16:00 Tutora
+dfguerro.kd at skype
 
-## 2020-09-28 Lunes
+b-date - '76
 
-9:00 - 10:00 Tutora : catalán
+# Experience
 
-12:30 - 13:00 Tutora : Catalán
+## 2012 - 
 
-16:00 - 17:09 Inglés
+Piksel/Kit-digital
+
+From Senior dev to Technical Architect
+
+* java , python, nodejs
+* Spring : IOC, Integration, Data, Rest, SpringBoot
+* Data storage : Mysql, Oracle, Mongo
+* AWS - Dynamodb, EC2, S3, lambda 
+* Mule ESB + RabbitMQ
+* CI - jenkins, docker for testing, gitlab, gocd
+* Testing - unit test+mocking, acceptance test : cucumber, jbehave, third-party mocks
+
+
+## 2006 - 2012
+Ingenia
+From senior developer to Tech Lead
+
+* java + jsp + oracle web apps
+* maven + spring + ORMs (ibatis, hibernate)
+* ASP + SQL Server
+
+# 2000 - 2006
+Several companies
+* VB
+* Mysql
+* Wiring datacenter, SAI implementation
+
+
+# Experience for fun
+
+
+
+# Education
+
+CS Degree : Ingeniero Informatico UMA
+'92 - 00
+
+Spanish/Catalan  mother tongues
+English good level
