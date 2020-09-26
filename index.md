@@ -16,6 +16,7 @@ Piksel/Kit-digital
 
 From Senior dev to Technical Architect
 
+* customer facing activities, requirements gathering, presenting solutions to tech/non-tech audience
 * java , python, nodejs
 * Spring : IOC, Integration, Data, Rest, MVC, SpringBoot
 * Data storage : Mysql, Oracle, Mongo
