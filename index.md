@@ -33,16 +33,18 @@ From senior developer to Tech Lead
 * maven + spring + ORMs (ibatis, hibernate)
 * ASP + SQL Server
 
-# 2000 - 2006
+## 2000 - 2006
 Several companies
 * VB
 * Mysql
 * Wiring datacenter, SAI implementation
 
 
-# Experience for fun
+# Experience for fun / other
 
+Check my github - playing with containers, spring, nginx
 
+Love ride my motorbike, drink IPAs and enjoy nature
 
 # Education
 
