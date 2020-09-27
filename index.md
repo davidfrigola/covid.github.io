@@ -20,7 +20,7 @@ From Senior dev to Technical Architect
 * java , python, nodejs
 * Spring : IOC, Integration, Data, Rest, MVC, SpringBoot
 * Data storage : Mysql, Oracle, Mongo
-* AWS - Dynamodb, EC2, S3, lambda 
+* AWS - Dynamodb, EC2, S3, lambda , ECS, ECR
 * Mule ESB + RabbitMQ + Oracle + guice
 * CI - jenkins, docker for testing, gitlab, gocd (loads of yaml here!)
 * Testing - unit test+mocking, acceptance test : cucumber, jbehave, third-party mocks
