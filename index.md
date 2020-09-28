@@ -10,13 +10,46 @@ b-date - '76
 
 ## Experience
 
-### 2012 - 
-
-Piksel/Kit-digital
+### 2012 - now : Piksel/Kit-digital
 
 From Senior dev to Technical Architect
 
-* customer facing activities, requirements gathering, presenting solutions to tech/non-tech audience
+- *Responsibilities* 
+
+* solution design, code reviews
+* acceptance criteria definition
+* deployment plans elaboration, review and implementation
+* track task status and priorities, reports
+* troubleshooting for production issues
+* customer facing activities:  requirements gathering, presenting solutions to tech/non-tech audience
+* team management : career path for team members, line management
+
+- *Projects*
+
+* Liberty global : enterprise API solution
+** solution proposals at tech level with customer/internal technical architects
+** describe solutions for DEV and QA team, providing acceptance criteria definition
+** integration with customer's existing system/services
+** dev and test environments troubleshoting 
+** team management : line manager/career path manager for team members
+
+
+* Discovery networks : backend tool for languaging track
+** requirements gathering, solution proposals at tech/non-tech level
+** integrate with customer's existing systems/services
+** deployment plans and troubleshooting
+** priorities tracking, sprint plans and reviews, customer reports re status
+** team management : line manager/career path manager for team members
+
+
+* Celcom : https://www.celcom.com.my/ full web videostreamig portal solution, based on existing product VCM
+** integrate with customer's backend solutions
+** extend features 
+** deployment plans and troubleshooting
+** coding, code reviews, dev servers troubleshooting
+
+- *Tech*
+
 * java , python, nodejs
 * Spring : IOC, Integration, Data, Rest, MVC, SpringBoot
 * Data storage : Mysql, Oracle, Mongo
@@ -27,10 +60,25 @@ From Senior dev to Technical Architect
 * git 
 
 
-### 2006 - 2012
-Ingenia
+### 2006 - 2012 : Ingenia
 
 From senior developer to Tech Lead
+
+- *Responsibilities*
+
+* implement solution : coding activities
+* deployment plans and coordination with deployment team. deployment support
+* solution design, handover to team for implementation
+* low level requirements gathering, at technical level
+
+- *Projects*
+
+* web based portals for several public gobernment sites
+* backend tools for portal administration
+* integration with existing backend tools for public sites
+* internal intranet web site development
+
+- *Tech* 
 
 * java + jsp + oracle web apps
 * maven + spring + ORMs (ibatis, hibernate)
@@ -38,8 +86,14 @@ From senior developer to Tech Lead
 * Spring MVC + Java Swing + Tibco broker 
 * CVS :(, then SVN :/, git at some point :)
 
-### 2000 - 2006
-Several companies
+### 2000 - 2006 : Several companies
+
+- *Responsibilities*
+
+* developer
+
+- *Tech*
+
 * VB + Mysql
 * ASP , some c++
 * Wiring datacenter, SAI implementation
