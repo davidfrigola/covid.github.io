@@ -10,7 +10,34 @@ b-date - '76
 
 ## Experience
 
-### 2012 - now : Piksel/Kit-digital
+### 2021 - present : Ciklum
+
+- *Responsibilities*
+
+* solution design, code reviews
+* solution architecture definition assistance
+* acceptance criteria definition
+* team lead
+* team management
+* customer facing activities:  requirements gathering, presenting solutions to tech/non-tech audience
+
+- * Projects*
+
+* Big international customer
+** solution proposals
+** team leading from definition + refinement + development and deployment
+** CI/CD jenkins
+
+- *Tech*
+
+* Java 11, Spring boot
+* Kafka + Avro + Schema registry
+* Kubernetes + Fortanix + Kustomize + Harbor 
+* Jenkins CI/CD , sonarqube , jfrog artifactory
+* git - bitbucket
+
+
+### 2012 - 2021 : Piksel/Kit-digital
 
 From Senior dev to Technical Architect
 
