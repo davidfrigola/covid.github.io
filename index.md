@@ -21,7 +21,7 @@ b-date - '76
 * team management
 * customer facing activities:  requirements gathering, presenting solutions to tech/non-tech audience
 
-- * Projects*
+- *Projects*
 
 * Big international customer
 ** solution proposals
